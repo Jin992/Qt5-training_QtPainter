@@ -1,3 +1,3 @@
 # Qt5-traning_QtPainter
 
-Simple draw app with Qt5 and C++
+A simple application for drawing,written on C++, with using the Qt5 framework.
